@@ -1,1 +1,2 @@
-# pirple_homework
+# Pirple homework repository
+## Homework 01
